@@ -4,24 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d90a700f-e099-41e2-947b-3ca658e4c0a5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/abstract_factory/Arma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/abstract_factory/ArmaGuerreiro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/abstract_factory/ArmaMago.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/abstract_factory/Armadura.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/abstract_factory/ArmaduraGuerreiro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/abstract_factory/ArmaduraMago.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/abstract_factory/ClasseHeroi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/abstract_factory/FabricaAbstrata.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/abstract_factory/FabricaAbstrataGuerreiro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/abstract_factory/FabricaAbstrataMago.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/abstract_factory/ClasseHeroiTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="d90a700f-e099-41e2-947b-3ca658e4c0a5" name="Changes" comment="Criação de projeto e finalização" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,6 +15,7 @@
       <list>
         <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="JUnit4 Test Class" />
       </list>
     </option>
   </component>
@@ -51,7 +35,9 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit4",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4": "",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": ""
   }
 }]]></component>
@@ -134,6 +120,14 @@
       <option name="presentableId" value="Default" />
       <updated>1665700254444</updated>
     </task>
+    <task id="LOCAL-00001" summary="Criação de projeto e finalização">
+      <created>1665702433853</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1665702433853</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -146,5 +140,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Criação de projeto e finalização" />
+    <option name="LAST_COMMIT_MESSAGE" value="Criação de projeto e finalização" />
   </component>
 </project>
